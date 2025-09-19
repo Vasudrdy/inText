@@ -1,0 +1,22 @@
+numpy == 1.26.4
+requests
+django
+langchain
+langchain_community
+langchain_groq
+bs4
+pymupdf
+validators
+youtube_transcript_api
+pytube 
+unstructured 
+langchain_huggingface 
+langchain_chroma 
+langchain_text_splitters
+dotenv
+django-cors-headers
+pytesseract
+Pillow
+opencv-python-headless>=4.5
+google-generativeai>=0.4
+pytesseract
